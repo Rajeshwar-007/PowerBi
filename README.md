@@ -1,4 +1,3 @@
-![image](https://github.com/Rajeshwar-007/PowerBi/assets/128798094/aef87294-3165-432f-b334-074324efba12)# PowerBi
 
 # OBJECTIVE
 
@@ -14,3 +13,4 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 
 
+![image](https://github.com/Rajeshwar-007/PowerBi/assets/128798094/f7cc3700-2369-47b8-a767-e7b1c2a38f4f)
