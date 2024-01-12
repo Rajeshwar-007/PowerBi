@@ -11,7 +11,8 @@ To contribute to the success of a business by utilizing data analysis techniques
 3. Sales Forecasting: Leverage historical data and apply time series analysis to generate sales forecasts for the next 15 days.
 4. Actionable Insights and Recommendations: The goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's growth, efficiency, and customer satisfaction goals.
 
+![BI](https://github.com/Rajeshwar-007/PowerBi/assets/128798094/dbb8ee18-ee50-487d-9537-e359b1374331)
 
 
 
-![BI](https://github.com/Rajeshwar-007/PowerBi/assets/128798094/052b44c7-4b79-4e61-a7dc-f6df13e1899a)
+
