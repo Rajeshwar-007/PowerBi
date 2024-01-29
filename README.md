@@ -13,7 +13,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 ![BI](https://github.com/Rajeshwar-007/PowerBi/assets/128798094/dbb8ee18-ee50-487d-9537-e359b1374331)
 
-![Uploading BI 2.png…]()
 
+![BI 2](https://github.com/Rajeshwar-007/PowerBi/assets/128798094/4d0051a5-dff4-4887-b295-c35eee42861f)
 
 
